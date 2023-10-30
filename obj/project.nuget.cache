@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2t3MUtoLTws25C6DLr/wHxcsb57k/ladCqgoIBIf6U3aqCbRohR1YBbcLDxJrMCK5NQQiV2HnSUPFy3VcaGNSw==",
+  "dgSpecHash": "7ZfDpevd/HZivg9FGaHE9/KO5KUr2ohNhzq127wzYTSpDuijTKtXcNrGz0/KG6S21EkRIPO7X0A33QSzmVes7g==",
   "success": true,
   "projectFilePath": "C:\\Users\\nik88\\OneDrive\\Desktop\\C#\\trening\\trening.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\nik88\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
