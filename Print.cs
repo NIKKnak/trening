@@ -23,6 +23,12 @@ namespace trening
             Console.WriteLine($"Name: {Name} Age: {Age}");
            
         }
+        public void Deconstruct(out string personName, out int personAge)
+        {
+            personName = Name;
+            personAge = Age;
+        }
+
     }
 
     
